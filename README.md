@@ -13,3 +13,11 @@ Working UI
 ## Future Vision:-
 #### - To give roles to the user after face recognition
 #### - To take multiple commands using multi-threading
+
+
+## Libraries used:-
+pyttsx3
+speech_recognition
+PyQt5
+face_recognition
+OpenCV
