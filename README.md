@@ -7,7 +7,7 @@ Working UI
 
 ## Featues:-
 #### - This uses face recognition to identify the users
-#### - The voice assistant is created in two languages (English/Hindi)
+#### - The voice assistant can take commands in two languages (English/Hindi)
 
 
 ## Future Vision:-
