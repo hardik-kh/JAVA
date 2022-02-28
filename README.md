@@ -16,8 +16,8 @@ Working UI
 
 
 ## Libraries used:-
-pyttsx3
-speech_recognition
-PyQt5
-face_recognition
+pyttsx3<br/>
+speech_recognition<br/>
+PyQt5<br/>
+face_recognition<br/>
 OpenCV
