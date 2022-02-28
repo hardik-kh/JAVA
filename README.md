@@ -8,3 +8,8 @@ Working UI
 ## Featues:-
 #### - This uses face recognition to identify the users
 #### - The voice assistant is created in two languages (English/Hindi)
+
+
+## Future Vision:-
+#### - To give roles to the user after face recognition
+#### - To take multiple commands using multi-threading
