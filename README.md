@@ -3,4 +3,4 @@
 
 Working UI
 -------
-<img src ="ui.jpg" height = "300" width = "600">
+<img src ="ui.jpg" height = "500" width = "1000">
